@@ -27,7 +27,7 @@ ul, ol {
 
 .vi {
     position: relative;
-    margin: 150px auto 0;
+    margin: 118px auto 0;
     width: 960px;
 }
 
@@ -43,6 +43,7 @@ ul, ol {
     position: relative;
     top: -10px;
     opacity: 0;
+    padding-bottom: 15px;
 }
 
 .quote {
@@ -96,7 +97,7 @@ ul, ol {
 }
 
 .menu {
-    margin-top: 40px;
+    margin-top: 60px;
     text-align: center;
     font-size: 14px;
 }
@@ -104,7 +105,7 @@ ul, ol {
 .menu a {
     display: inline-block;
     position: relative;
-    margin-left: 10px;
+    margin-left: 20px;
     text-decoration: none;
     border-bottom: 1px solid #ccc;
 }
@@ -123,7 +124,7 @@ ul, ol {
 
 .sidebar {
     margin: 0 auto;
-    max-width: 500px;
+    max-width: 600px;
 }
 
 @media (max-width: 767px) { 
